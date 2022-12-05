@@ -13,7 +13,7 @@ curl https://raw.githubusercontent.com/martincallesen/githooks/main/pre-push > p
 ```
 
 ## Prepare Commit Message
-A hook script to prepare a commit message with issue key from branch name
+A hook script to prepare a commit message with branch name
 To use it, either symlink this script to $your-git-clone/.git/hooks/prepare-commit-msg
 or include it in your existing pre-push script.
 ```
