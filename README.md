@@ -3,6 +3,7 @@ Git hooks that I like to have installed in my git repositories
 
 # Features
 pre-push - Prevent Pushes With Untracked Source Files
+
 prepare-commit - Prepare commit message with branch name
 
 ## Prepush
