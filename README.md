@@ -1,5 +1,5 @@
 # Description
-Git hooks that i like to have
+Git hooks that I like to have installed in my git repositories
 
 # Features
 pre-push - Prevent Pushes With Untracked Source Files
